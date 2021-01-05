@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+}
+.name-color{
+    color: darkblue;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+   
+}
+.width img{
+    width: 100%;
+}
+.width a{
+    background-color: rgb(126, 245, 152);
+    padding: 5px 12px;
+    border-radius: 20px;
+   
+    border:2px solid rgb(212, 12, 162);
+}
+.color{
+margin: 0;
+}
